@@ -1,0 +1,76 @@
+body {
+    background-image: url('images/Unicorn.jpg');
+    background-color: black;
+    font-family: 'Creepster', cursive;
+    color: black;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+#articles {
+  width: 60%;
+  height: 700px;
+  display: inline-block;
+  overflow: auto;
+  font-family: 'Play', sans-serif;
+}
+
+#notes {
+  width: 30%;
+  float: right;
+}
+
+textarea, input {
+  display: block;
+  width: 100%;
+}
+
+.container {
+  display: inline-block;
+  
+}
+
+.jumbotron {
+  font-size: 46px;
+}
+/*      .container {
+        width: 960px;
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 5%;
+        color: white;
+       
+      }
+      h1 {
+        text-align: center;
+        font-size: 42px;
+      }
+      #articles {
+        display: inline-block;
+        text-align: center;
+        opacity: 0.8;
+        overflow: auto;
+        width: 60%;
+        height: 700px;
+      }
+      #notes {
+        float: right;
+        width: 30%;
+      }
+      textarea, input {
+        display: block;
+        width: 100%;
+        background-color: #FCF5C7;
+      }
+      input {
+        height: 36px;
+        font-size: 24px;
+      }
+      textarea {
+        height: 200px;
+        font-size: 18px;
+        font-family: 'Teko' sans-serif;
+      }*/
